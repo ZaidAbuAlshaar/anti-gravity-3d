@@ -1,0 +1,14 @@
+# Node
+node_modules/
+**/node_modules/
+dist/
+.next/
+out/
+
+# Tooling / OS
+.claude/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
